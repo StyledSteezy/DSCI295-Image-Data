@@ -82,8 +82,7 @@ This image was going to be particularly hard to find the barcode because of the 
 interfering and possibly because of all the black in the image? So I ran my program on this image
 and the output was this:
 
-![alt text](https://github.com/StyledSteezy/DSCI295-Image-Data/blob/master/Barcode-Project/image-processing/shoe-box-barcode-
-detection.PNG  "Shoe Box Barcode")
+![alt text](https://github.com/StyledSteezy/DSCI295-Image-Data/blob/master/Barcode-Project/image-processing/shoe-box-barcode-detection.PNG  "Shoe Box Barcode")
 
 There are just too many lines drawn on this image. Even though it was able to crop out
 the part of the image where the lines are farthest apart, it is still unreadable because there are just
